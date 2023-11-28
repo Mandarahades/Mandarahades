@@ -21,6 +21,9 @@
 💡 I'm keen on collaborating on innovative projects that push the boundaries of technology, especially in the domains of web development and software engineering.  
 📫 You can reach out to me for any assistance, guidance, or potential collaboration opportunities – I'm always ready to contribute my expertise and learn from exciting ventures!
 
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 
 <!---
 Mandarahades/Mandarahades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
